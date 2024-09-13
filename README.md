@@ -2,15 +2,13 @@
 tag images in gz2 (SDSS) according to question tree.
 
 gz2_images: images_gz2.zip 
-https://zenodo.org/records/3565489#.Y3vFKS-l0eY
 
-download by yourself
+https://zenodo.org/records/3565489#.Y3vFKS-l0eY download by yourself
 
 
 gz2_catalog: gz2_hart.csv
-https://gz2hart.s3.amazonaws.com/gz2_hart16.csv.gz
 
-download by yourself
+https://gz2hart.s3.amazonaws.com/gz2_hart16.csv.gz download by yourself
 
 (column description: https://gz2hart.s3.amazonaws.com/gz2_hart16.txt)
 
