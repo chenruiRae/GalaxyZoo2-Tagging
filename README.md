@@ -1,5 +1,5 @@
 # GalaxyZoo2-Tagging
-tag images in gz2 (SDSS) according to question tree.
+tag images in gz2 (img by SDSS) according to question tree.
 
 gz2_images: `images_gz2.zip` 
 
