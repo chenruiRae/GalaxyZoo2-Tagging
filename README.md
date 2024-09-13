@@ -1,7 +1,7 @@
 # GalaxyZoo2-Tagging
 tag images in gz2 (SDSS) according to question tree.
 
-gz2_images: '<images_gz2.zip>'
+gz2_images: `<images_gz2.zip>` 
 
 https://zenodo.org/records/3565489#.Y3vFKS-l0eY download by yourself
 
